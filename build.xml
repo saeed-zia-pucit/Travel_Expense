@@ -1,0 +1,8 @@
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi-ooxml</artifactId>
+    <version>3.17</version>
+</dependency>
+
+    <!-- dependency used for XLS older file format
+         (added for information) -->
