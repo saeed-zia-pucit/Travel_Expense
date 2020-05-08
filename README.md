@@ -10,7 +10,7 @@ Mobile Application
 
 Abstract
 
-This project requires students to create an android mobile app for Travel expenses management using android platform with web programming APIs as per the functional specification given in this document. TEM app is supposed to be used or customized for any travel guys or tourists etc.
+This project requires to create an android mobile app for Travel expenses management using android platform with web programming APIs as per the functional specification given in this document. TEM app is supposed to be used or customized for any travel guys or tourists etc.
 
 Functional Requirements:
 
